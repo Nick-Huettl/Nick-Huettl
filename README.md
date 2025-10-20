@@ -5,7 +5,7 @@ I am a recent college graduate looking for more ways to expand my knowledge and 
 
 ## Objective
 
-While Cybersecurity can be a very broad field with much to learn, I am focusing on expanding my skills and knowledge in the blue team role. As of now, my goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
+While Cybersecurity can be very broad with much to learn, I am focusing on expanding my skills and knowledge in the blue team role. As of now, my goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
 
 ## Skills
 
@@ -19,12 +19,10 @@ While Cybersecurity can be a very broad field with much to learn, I am focusing 
 | - | WIP |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network TEST
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
@@ -36,19 +34,13 @@ While Cybersecurity can be a very broad field with much to learn, I am focusing 
 
 ### SIEM TEST
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications TEST
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects TEST
