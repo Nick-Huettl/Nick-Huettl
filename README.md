@@ -11,7 +11,7 @@ While Cybersecurity can be very broad with much to learn, I am focusing on expan
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| (WIP) | <a href="https://google.com">SOC Automation Project</a>|
+| (WIP) | <a href="https://github.com/Nick-Huettl/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
 
 
 ## Tools
@@ -37,4 +37,4 @@ While Cybersecurity can be very broad with much to learn, I am focusing on expan
 </div>
 
 ## Projects TEST
-- SOC Automation Project (WIP)
+- <a href="https://github.com/Nick-Huettl/SOC-Automation-Project/tree/main">SOC Automation Project (WIP)</a>
