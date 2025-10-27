@@ -1,40 +1,40 @@
 # Hello, I'm Nicholas
 <a href="https://linkedin.com/in/nick-huettl-b6abb6315"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent college graduate looking for more ways to expand my knowledge and skills within the Cybersecurity field.
+I am a recent college graduate passionate about advancing my knowledge and hands-on experience in the Cybersecurity field.
 
 ## Objective
 
-While Cybersecurity can be very broad with much to learn, I am focusing on expanding my skills and knowledge in the blue team role. As of now, my goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
+While Cybersecurity is a broad and constantly evolving field, I'm currently focused on strengthening my blue team skill set. My short-term goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst , where I can apply my learning in real-world detection and response operations. 
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| (WIP) | <a href="https://github.com/Nick-Huettl/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
+| SIEM Configuration & Log Analysis | <a href="https://github.com/Nick-Huettl/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
+| Incident Response Automation | <a href="https://github.com/Nick-Huettl/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
 
+## Tools Used in Projects
 
-## Tools
-
-### Network TEST
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
-### Endpoint TEST
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-### SIEM TEST
+### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-## Certifications TEST
+### Automation & Orchestration
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-n8n-1a1a1a?&style=for-the-badge&logo=n8n&logoColor=orange" /> 
+    <img src="https://img.shields.io/badge/-OpenAI-412991?&style=for-the-badge&logo=openai&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=slack&logoColor=white" />
 </div>
 
-## Projects TEST
-- <a href="https://github.com/Nick-Huettl/SOC-Automation-Project/tree/main">SOC Automation Project (WIP)</a>
+### Virtualization & Operating Systems
+
+<div>
+    <img src="https://img.shields.io/badge/-VMware%20Workstation-607078?&style=for-the-badge&logo=vmware&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Windows%2011-0078D6?&style=for-the-badge&logo=windows11&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+</div>
+
+## Projects
+- <a href="https://github.com/Nick-Huettl/SOC-Automation-Project/tree/main">SOC Automation Project</a>
