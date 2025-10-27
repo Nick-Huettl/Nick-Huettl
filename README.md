@@ -1,4 +1,4 @@
-# Hello, I'm Nicholas
+# Hello, I'm Nick
 <a href="https://linkedin.com/in/nick-huettl-b6abb6315"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent college graduate passionate about advancing my knowledge and hands-on experience in the Cybersecurity field.
