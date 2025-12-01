@@ -5,7 +5,11 @@ I am a recent college graduate passionate about advancing my knowledge and hands
 
 ## Objective
 
-While Cybersecurity is a broad and constantly evolving field, I'm currently focused on strengthening my blue team skill set. My short-term goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst , where I can apply my learning in real-world detection and response operations. 
+While Cybersecurity is a broad and constantly evolving field, I'm currently focused on strengthening my blue team skill set. My short-term goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply my learning in real-world detection and response operations. 
+
+## My Certifications
+
+<img src="https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=for-the-badge" />
 
 ## Skills
 
