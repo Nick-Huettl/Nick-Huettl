@@ -9,7 +9,7 @@ While Cybersecurity is a broad and constantly evolving field, I'm currently focu
 
 ## My Certifications
 
-<img src="https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=for-the-badge" /> <img src="https://img.shields.io/badge/CompTIA_Security%2B-EE0000?style=for-the-badge&logo=comptia&logoColor=white" />
 
 ## Skills
 
