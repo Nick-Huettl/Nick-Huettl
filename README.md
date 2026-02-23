@@ -42,4 +42,6 @@ While Cybersecurity is a broad and constantly evolving field, I'm currently focu
 
 ## Projects
 - <a href="https://github.com/Nick-Huettl/SOC-Automation-Project/tree/main">SOC Automation Project</a>
+- **Active Directory Security (Upcoming Project)**
+- **IDS + Packet Inspection (Upcoming Project)**
 - **Honeypot Project (Upcoming Project)**
