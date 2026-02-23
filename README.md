@@ -1,11 +1,11 @@
 # Hello, I'm Nick
 <a href="https://linkedin.com/in/nick-huettl-b6abb6315"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent college graduate passionate about advancing my knowledge and hands-on experience in the Cybersecurity field.
+Cybersecurity graduate focused on blue team operations with hands-on experience in SIEM configuration, alert triage, and SOC automation through lab environments.
 
 ## Objective
 
-While Cybersecurity is a broad and constantly evolving field, I'm currently focused on strengthening my blue team skill set. My short-term goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply my learning in real-world detection and response operations. 
+My short-term goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can contribute to real-world detection and response operations while continuing to grow my blue team skill set. 
 
 ## My Certifications
 
@@ -16,6 +16,7 @@ While Cybersecurity is a broad and constantly evolving field, I'm currently focu
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Configuration & Log Analysis | <a href="https://github.com/Nick-Huettl/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
+| Alert Triage & Investigation | <a href="https://github.com/Nick-Huettl/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
 | Incident Response Automation | <a href="https://github.com/Nick-Huettl/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
 
 ## Tools Used in Projects
@@ -42,6 +43,6 @@ While Cybersecurity is a broad and constantly evolving field, I'm currently focu
 
 ## Projects
 - <a href="https://github.com/Nick-Huettl/SOC-Automation-Project/tree/main">SOC Automation Project</a>
-- **Active Directory Security (Upcoming Project)**
+- **Active Directory Security (WIP)**
 - **IDS + Packet Inspection (Upcoming Project)**
 - **Honeypot Project (Upcoming Project)**
