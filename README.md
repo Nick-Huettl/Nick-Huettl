@@ -43,6 +43,6 @@ My short-term goal is to join a Security Operations Center (SOC) as a Tier 1 Ana
 
 ## Projects
 - <a href="https://github.com/Nick-Huettl/SOC-Automation-Project/tree/main">SOC Automation Project</a>
-- **Active Directory Security (WIP)**
+- <a href="https://github.com/Nick-Huettl/Active-Directory-Security/tree/main">Active Directory Security (WIP)</a>
 - **IDS + Packet Inspection (Upcoming Project)**
 - **Honeypot Project (Upcoming Project)**
