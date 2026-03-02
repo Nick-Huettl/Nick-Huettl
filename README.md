@@ -1,5 +1,5 @@
 # Hello, I'm Nick
-<a href="https://linkedin.com/in/nick-huettl-b6abb6315"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/nick-huettl"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Cybersecurity graduate focused on blue team operations with hands-on experience building and monitoring security lab environments.
 
