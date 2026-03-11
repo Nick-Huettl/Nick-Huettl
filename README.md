@@ -1,4 +1,4 @@
-# Hello, I'm Nick
+# Hello, I'm Nick 👋
 <a href="https://linkedin.com/in/nick-huettl"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Cybersecurity graduate focused on blue team operations with hands-on experience building and monitoring security lab environments.
@@ -18,9 +18,9 @@ My short-term goal is to join a Security Operations Center (SOC) as a Tier 1 Ana
 | SIEM Configuration & Log Analysis | <a href="https://github.com/Nick-Huettl/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
 | Alert Triage & Investigation | <a href="https://github.com/Nick-Huettl/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
 | Incident Response Automation | <a href="https://github.com/Nick-Huettl/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
-| Active Directory Administration | <a href="https://github.com/Nick-Huettl/Active-Directory-Security/tree/main">Active Directory Security (WIP)</a>|
-| Group Policy Hardening | <a href="https://github.com/Nick-Huettl/Active-Directory-Security/tree/main">Active Directory Security (WIP)</a>|
-| Endpoint Telemetry | <a href="https://github.com/Nick-Huettl/Active-Directory-Security/tree/main">Active Directory Security (WIP)</a>|
+| Active Directory Administration | <a href="https://github.com/Nick-Huettl/Active-Directory-Security/tree/main">Active Directory Security Lab</a>|
+| Group Policy Hardening | <a href="https://github.com/Nick-Huettl/Active-Directory-Security/tree/main">Active Directory Security Lab</a>|
+| Endpoint Telemetry | <a href="https://github.com/Nick-Huettl/Active-Directory-Security/tree/main">Active Directory Security Lab</a>|
 
 ## Tools Used in Projects
 
@@ -52,6 +52,6 @@ My short-term goal is to join a Security Operations Center (SOC) as a Tier 1 Ana
 
 ## Projects
 - <a href="https://github.com/Nick-Huettl/SOC-Automation-Project/tree/main">SOC Automation Project</a>
-- <a href="https://github.com/Nick-Huettl/Active-Directory-Security/tree/main">Active Directory Security (WIP)</a>
+- <a href="https://github.com/Nick-Huettl/Active-Directory-Security/tree/main">Active Directory Security Lab</a>
 - **IDS + Packet Inspection (Upcoming Project)**
 - **Honeypot Project (Upcoming Project)**
