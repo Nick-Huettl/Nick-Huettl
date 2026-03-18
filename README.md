@@ -11,6 +11,12 @@ My short-term goal is to join a Security Operations Center (SOC) as a Tier 1 Ana
 
 <img src="https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=for-the-badge" /> <img src="https://img.shields.io/badge/CompTIA_Security%2B-EE0000?style=for-the-badge&logo=comptia&logoColor=white" />
 
+## Projects
+- <a href="https://github.com/Nick-Huettl/SOC-Automation-Project/tree/main">SOC Automation Project</a>
+- <a href="https://github.com/Nick-Huettl/Active-Directory-Security/tree/main">Active Directory Security Lab</a>
+- **IDS + Packet Inspection (Upcoming Project)**
+- **Honeypot Project (Upcoming Project)**
+
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -49,9 +55,3 @@ My short-term goal is to join a Security Operations Center (SOC) as a Tier 1 Ana
     <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows%20Server%202022-0052CC?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
-
-## Projects
-- <a href="https://github.com/Nick-Huettl/SOC-Automation-Project/tree/main">SOC Automation Project</a>
-- <a href="https://github.com/Nick-Huettl/Active-Directory-Security/tree/main">Active Directory Security Lab</a>
-- **IDS + Packet Inspection (Upcoming Project)**
-- **Honeypot Project (Upcoming Project)**
