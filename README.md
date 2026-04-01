@@ -27,6 +27,9 @@ My short-term goal is to join a Security Operations Center (SOC) as a Tier 1 Ana
 | Active Directory Administration | <a href="https://github.com/Nick-Huettl/Active-Directory-Security/tree/main">Active Directory Security Lab</a>|
 | Group Policy Hardening | <a href="https://github.com/Nick-Huettl/Active-Directory-Security/tree/main">Active Directory Security Lab</a>|
 | Endpoint Telemetry | <a href="https://github.com/Nick-Huettl/Active-Directory-Security/tree/main">Active Directory Security Lab</a>|
+| Network Traffic Analysis | <a href="https://github.com/Nick-Huettl/Network-Monitoring-Security/tree/main">Network Security Monitoring (WIP)</a>|
+| Custom IDS Rule Creation | <a href="https://github.com/Nick-Huettl/Network-Monitoring-Security/tree/main">Network Security Monitoring (WIP)</a>|
+| Packet Analysis (Wireshark) | <a href="https://github.com/Nick-Huettl/Network-Monitoring-Security/tree/main">Network Security Monitoring (WIP)</a>|
 
 ## Tools Used in Projects
 
@@ -45,6 +48,13 @@ My short-term goal is to join a Security Operations Center (SOC) as a Tier 1 Ana
 ### Endpoint Telemetry & Monitoring
 <div>
     <img src="https://img.shields.io/badge/-Sysmon-2E8B57?&style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
+### Network Security Monitoring
+<div>
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge" />
 </div>
 
 ### Virtualization & Operating Systems
